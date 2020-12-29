@@ -1,0 +1,191 @@
+body{
+	margin:0;
+	text-align: center;
+	
+}
+h1{
+	font-size:3rem;
+	color: #835858;
+	margin:0 auto 0 auto;
+	font-family:'Parisienne', cursive;
+	line-height: 2;
+}
+h2{
+	font-family: 'Alice', serif;
+	padding-top:20px;
+	margin-bottom: 40px;
+}
+p{
+	width:50%;
+	margin: 0 auto 0 auto;
+ 
+}
+h3{
+	color:#ac8daf;
+}
+a{
+	color:#8785a2;
+}
+hr{
+border-style: dotted;
+border-width: 4px;
+border-bottom: none;
+border-color: #835858;
+width:20%;
+}
+/*div*/
+.top-container{
+ position:relative;
+ padding-top: 100px;
+ background-color: #f7dad9;
+ 
+}
+#about{
+	background-color:#fff5ea;
+}
+#footer{
+	background-color: #968c83;
+	padding-top:30px;
+}
+/*top container*/
+.front{
+	text-decoration: underline;
+	font-family: 'Pacifico', cursive;
+	font-weight: normal;
+    color: #835858;
+}
+.font{
+	font-family: 'Alice', serif;
+	font-size:1rem;
+	color:#968c83;
+	padding-bottom: 75px;
+}
+/*middle container*/
+.skill-row{
+	width: 50%;
+	margin:10px auto 50px auto;
+	text-align:left;
+	line-height: 2;
+
+}
+.tskill{
+	font-family: 'Nanum Gothic', sans-serif;
+	margin:0;
+	padding:0;
+
+}
+.sskil{
+	font-family: 'Nanum Gothic', sans-serif;
+}
+.hello{
+	margin:0;
+	padding-top:0;
+	padding-bottom: 30px;
+}
+.myself{
+	padding-bottom: 30px;
+}
+.get_in_touch{
+	padding-bottom:0;
+}
+.contact-me{
+	padding-bottom:0;
+}
+.subheadings{
+	color:#835858
+} 
+.btn{
+	margin:50px;
+	border-radius: 20px;
+}
+.btn-colour{
+	background-color:#f7dad9;
+	color:#835858;
+}
+
+
+/*bottom container*/
+
+.copyright{
+	padding-bottom: 30px;
+	padding-top:20px;
+}
+.footer-linkL{
+	padding-right: 20px;
+	color:#f1f3de
+}
+.footer-linkT{
+	padding-right: 20px;
+	color:#f1f3de
+}
+.footer-linkW{
+	color:#f1f3de
+}
+/*pictures*/
+.me{
+	width:20%;
+	
+}
+.dcloud{
+	width:10%;
+	
+}
+.tcloud{
+	width:10%;
+}
+
+.technical{
+width:50%;
+margin:50px;
+	
+}
+.soft{
+
+width:50%;
+margin: 50px;
+
+	
+}
+.navbar{
+	background-color: #968c83;
+}
+.container-fluid{
+	padding:0;
+	margin-top:50px;
+}
+.container-fluido{
+margin:0;
+}
+@media (max-width: 480px) {
+	.me{
+		width:70%;
+	}
+	
+	
+	.tskill{
+		font-family: 'Nanum Gothic', sans-serif;
+		margin-top:20px;
+		margin-bottom: 50px;
+		padding:0;
+	}
+	.technical{
+		width:50%;
+		margin-bottom: 30px;	
+	}
+	.soft{
+		width:50%;
+		margin-bottom: 30px;
+		margin-top:20px;	
+	}
+
+}
+
+
+
+/* Dark colour for highlighting- 8785a2
+background-color:#ffe2e2;
+background-color: #f6f6f6;
+font-family: 'Alice', serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Patrick Hand', cursive;
+font-family: 'Nanum Gothic' */
